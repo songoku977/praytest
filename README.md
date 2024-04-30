@@ -1,2 +1,2 @@
 This is a new test
-:q
+and a new line is written here.
